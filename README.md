@@ -1,6 +1,6 @@
 #README.md
 
-This is a simple crawler which I wrote to collect the test questions of my college courses.
+This is a simple crawler which I wrote to collect the course puzzles.
 
 Usage:
 `.\python crawler_SG.py`
